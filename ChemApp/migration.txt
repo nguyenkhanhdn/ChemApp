@@ -1,0 +1,7 @@
+﻿Enable-Migrations -ContextTypeName ChemApp.Models.ChemDbContext
+
+add-migration "mot"
+
+update-database
+
+

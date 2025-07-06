@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemApp", "ChemApp\ChemApp.csproj", "{F3BA9D92-B681-4B85-8DC4-2377659E3BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3BA9D92-B681-4B85-8DC4-2377659E3BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BA9D92-B681-4B85-8DC4-2377659E3BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BA9D92-B681-4B85-8DC4-2377659E3BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BA9D92-B681-4B85-8DC4-2377659E3BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCA7FE9-4267-42A7-B7DC-464EF9491A7D}
+	EndGlobalSection
+EndGlobal
